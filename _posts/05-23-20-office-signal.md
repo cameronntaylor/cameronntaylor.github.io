@@ -5,7 +5,7 @@ tag: the office, economics
 author: Cameron Taylor
 date: 2020-05-23
 description: I assess whether team conference can improve predicting college football bowl games. 
-permalink: /blog/conference-bowls
+permalink: /blog/office-signal
 ---
 
 [Blog](https://cameronntaylor.github.io/blog/) | [My Personal Website](https://cameronntaylor.github.io/)
