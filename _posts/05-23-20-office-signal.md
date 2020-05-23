@@ -4,7 +4,7 @@ title: The Office Economics
 tag: the office, economics
 author: Cameron Taylor
 date: 2020-05-23
-description: I assess whether team conference can improve predicting college football bowl games. 
+description: First post on the economics of The Office. 
 permalink: /blog/office-signal
 ---
 
