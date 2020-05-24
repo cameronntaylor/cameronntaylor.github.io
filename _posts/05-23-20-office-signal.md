@@ -26,7 +26,7 @@ Economic concept: Signaling.<br/>
 
 Michael says that presents are a way for people to express how much they value each other. In economic theory, one way to justify people giving gifts is that they derive happiness or value from other’s happiness. For example, economists might say that the relationship between your happiness and stuff is<br/>
 
-*Your happiness = stuff you own + b*(stuff your friends and family own)*
+*Your happiness = stuff you own + b x (stuff your friends and family own)*
 
 where 0<b<1 that measures the altruistic weight on your friends and family. If b=1 then you care about your families well-being as much as your own while if b=0 you don’t care at all about your friends and family. It is entirely possible that people have different b’s for different people. For example, there is a large economics research literature that looks at the implications of parent's altruism towards their children for investing in children's education and well-being. However, in the context that Michael is discussing, the social setting is one more with friends or even acquantainces. <br/>
 
