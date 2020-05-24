@@ -16,6 +16,8 @@ Season: 2
 Episode: 10
 Minute: 06:50
 
+![alt text](../images/office-signal.jpg)
+
 [Video Link (Youtube)](https://www.youtube.com/watch?v=B6jCMaiTqG0)
 
 Quote: *“Presents are the best way to show someone how much you care. It is like this tangible thing you can point to and say, `Hey man, I love you this many dollars worth’.” - Michael on Secret Santa and presents.* <br/>
