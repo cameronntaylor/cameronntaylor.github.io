@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Office Economics 
+title: The Office Economics - Signaling and Altruism
 tag: the office, economics
 author: Cameron Taylor
 date: 2020-05-23
-description: First post on the economics of The Office. 
+description: First post on the economics of The Office. Examines economic ideas in Michael Scott's quote about giving gifts. 
 permalink: /blog/office-signal
 ---
 
@@ -22,7 +22,7 @@ Minute: 06:50
 
 Quote: *“Presents are the best way to show someone how much you care. It is like this tangible thing you can point to and say, `Hey man, I love you this many dollars worth’.” - Michael on Secret Santa and presents.* <br/>
 
-Economic concept: Signaling.<br/>
+Economic concept: Signaling and Altruism.<br/>
 
 Michael says that presents are a way for people to express how much they value each other. In economic theory, one way to justify people giving gifts is that they derive happiness or value from other’s happiness. For example, economists might say that the relationship between your happiness and stuff is<br/>
 
