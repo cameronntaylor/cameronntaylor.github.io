@@ -10,6 +10,16 @@ Email: <cntaylor@stanford.edu>
 
 **Working Papers**
 
+[Information and Risky Behavior: Model and Policy Implications for COVID-19](./pdfs/covid19-6-12-2020)
+
+<details>
+ <summary>Abstract</summary>
+ This paper studies a contagion model where individuals can take risky or safe actions to study the effects of testing and fines on disease spread and welfare. Testing gives agents knowledge to better assess the costs of exposing themselves to a disease. Whether testing increases or decreases disease spread depends on the private costs of the disease. If the private costs are small enough, then testing individuals increases infection. If the private costs are large enough, then testing individuals decreases infection. Punishing individuals for exposing themselves and others to the disease while also providing testing can also increase disease spread. Welfare in the economy is also examined in a simplified version of the model. Policy implications for public health responses to pandemics are discussed along with an application to crime.  
+  </details>
+ 
+ <br/><br/>
+ 
+
 [Fostering Children](./pdfs/foster.pdf) ([slides](./pdfs/foster_slides.pdf)) ([non-technical summary](./pdfs/foster-non-tech.pdf))
 
  <details>
