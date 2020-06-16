@@ -10,7 +10,7 @@ Email: <cntaylor@stanford.edu>
 
 **Working Papers**
 
-[Information and Risky Behavior: Model and Policy Implications for COVID-19](./pdfs/covid19-6-12-2020)
+[Information and Risky Behavior: Model and Policy Implications for COVID-19](./pdfs/covid19-6-16-2020)
 
 <details>
  <summary>Abstract</summary>
