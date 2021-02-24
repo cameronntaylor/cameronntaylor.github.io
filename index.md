@@ -1,6 +1,6 @@
 # About Me
 
-I am an economics PhD student at the Stanford Graduate School of Business. My research interests are broadly in applied microeconomics with specific interest in labor economics including inequality, education and child welfare.
+I am an economics PhD student at the Stanford Graduate School of Business. I work on topics in labor, child welfare and families, education, and inequality. My job market paper focuses on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
 
 Email: <cntaylor@stanford.edu>
 
