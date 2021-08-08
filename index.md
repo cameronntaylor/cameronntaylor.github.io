@@ -4,7 +4,7 @@ I am an economics PhD student at the Stanford Graduate School of Business. I wor
 
 Email: <cntaylor@stanford.edu>
 
-[CV](./pdfs/cntaylor_cv_2020.pdf)
+[CV](./pdfs/cntaylor_cv_2021.pdf)
 
 # Research
 
@@ -99,7 +99,7 @@ Films 1960-2018 (In Progress)
 
 # Teaching and Other Activities
 
-Stanford GSB Research Fellow Econometrics Bootcamp 2019 (1 week bootcamp on econometric methods)
+Stanford GSB Research Fellow Econometrics Bootcamp 2019-2021 (1 week bootcamp on econometric methods)
 
 Course Assistant MGTECON 603 Econometrics Methods I Fall 2019 (PhD course on statistical foundations of econometrics) [Section Notes](./pdfs/section_notes.pdf)
 
