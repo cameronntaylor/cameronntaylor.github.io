@@ -1,6 +1,8 @@
 # About Me
 
-I am an economics PhD student at the Stanford Graduate School of Business. I work on topics in labor, child welfare and families, education, and inequality. My job market paper focuses on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
+I am an economics PhD student at the Stanford Graduate School of Business. My research is generally in applied microeconomics where I utilize a mixture of causal inference, machine learning and optimization methods to answer unique research questions. I work on topics in labor, child welfare and families, education, and inequality. My job market paper focuses on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
+
+I am seeking full-time roles as a research scientist, data scientist or similar role in the Bay Area for 2022. I code in R, Python, and SQL, and I am currently learning Scala.
 
 Email: <cntaylor@stanford.edu>
 
