@@ -6,7 +6,7 @@ I am seeking full-time roles as a research scientist, data scientist or similar 
 
 Email: <cntaylor@stanford.edu>
 
-[CV](./pdfs/cntaylor_cv_2021.pdf)
+[CV](./pdfs/cntaylor_cv_8_2021.pdf)
 
 # Research
 
