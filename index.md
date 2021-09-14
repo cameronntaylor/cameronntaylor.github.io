@@ -10,6 +10,17 @@ Email: <cntaylor@stanford.edu>
 
 # Research
 
+**Job Market Paper**
+
+[Foster Families, Group Homes, and Foster Child Outcomes](./pdfs/jmp-draft-9-14.pdf)
+
+<details>
+ <summary>Abstract</summary>
+This paper uses exogenous exits of children from foster families as an instrumental variable to estimate causal effects of non-kin foster family placements relative to group home placements on the outcomes of older children entering foster care. Non-kin foster families substantially reduce children’s chances of being incarcerated, homeless or having substance abuse referrals at ages 20 and 21 relative to group homes. The difference in family and group home placement can explain a substantial share of the causal effects estimated in the literature on the overall effect of being placed in foster care. The paper then builds and estimates a structural model of foster child placement into families and group homes incorporating the instrument where foster family preferences over child characteristics influence placement and foster child outcomes. Family preferences reduce average foster child outcomes in equilibrium, and policies that subsidize the placement of children such as boys can achieve similar gains in average foster child outcomes as policies that increase the availability of families. These results nuance the policy discussion by showing that while increasing non-kin families can improve foster child outcomes, policies that consider changing the allocation of foster children to non-kin families can achieve quantitatively comparable gains.
+  </details>
+ 
+ <br/><br/>
+
 **Working Papers**
 
 [Information and Risky Behavior: Model and Policy Implications for COVID-19](./pdfs/covid19-6-16-2020.pdf)
@@ -79,20 +90,19 @@ What Makes a Movie Great?
   Project using NFL pre-play image and situational data with convolutional neural networks and transfer learning to predict play outcomes including yards gained and offensive play call. 
 </details>
 
+<br/><br/>
+
 [Machine Learning Cheatsheet](./pdfs/ml_cheat.pdf)
 <details>
   <summary>Details</summary>
   A machine learning cheatsheet to de-mystify some major machine learning methods for those with intermediate statistics and econometrics backgrounds. Also useful as a condensed reference for high-level overview of the methods.
 </details>
 
+<br/><br/>
+
 [Blog](./blog)
 
 I write about popular subject topics (mainly sports) using economics and statistics. 
-
-
-<br/><br/>
-
-
 
 <br/><br/>
 
