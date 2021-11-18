@@ -10,11 +10,11 @@ Email: <cntaylor@stanford.edu>
 
 **Job Market Paper**
 
-[Foster Families, Group Homes, and Foster Child Outcomes](./pdfs/jmp-draft-9-14.pdf)
+Who Gets a Family? The Consequences of Family and Group Home Allocation for Foster Child Outcomes
 
 <details>
  <summary>Abstract</summary>
-This paper uses exogenous exits of children from foster families as an instrumental variable to estimate causal effects of non-kin foster family placements relative to group home placements on the outcomes of older children entering foster care. Non-kin foster families substantially reduce children’s chances of being incarcerated, homeless or having substance abuse referrals at ages 20 and 21 relative to group homes. The difference in family and group home placement can explain a substantial share of the causal effects estimated in the literature on the overall effect of being placed in foster care. The paper then builds and estimates a structural model of foster child placement into families and group homes incorporating the instrument where foster family preferences over child characteristics influence placement and foster child outcomes. Family preferences reduce average foster child outcomes in equilibrium, and policies that subsidize the placement of children such as boys can achieve similar gains in average foster child outcomes as policies that increase the availability of families. These results nuance the policy discussion by showing that while increasing non-kin families can improve foster child outcomes, policies that consider changing the allocation of foster children to non-kin families can achieve quantitatively comparable gains.
+Hundreds of thousands of children grow up in the US foster care system every year and are at high risk of experiencing negative outcomes such as incarceration and homelessness. This paper documents how the placement of foster children into families rather than group homes improves their outcomes using the exits of other children from families as an instrument for their placement setting. Policies that change which children are matched to families can achieve similar average gains to policies that add families to the foster care system due to heterogeneity in treatment effects. 
   </details>
  
  <br/><br/>
