@@ -1,6 +1,6 @@
 # About Me
 
-I am an economics PhD student at the Stanford Graduate School of Business. My research is generally in applied microeconomics where I utilize a mixture of causal inference, machine learning and optimization methods to answer unique research questions. I work on topics in labor, child welfare and families, education, and inequality. My job market paper focuses on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
+I am an economist and machine learning engineer at Instacart. I graduated with my PhD in economics from Stanford GSB in January 2022. My research is/was generally in applied microeconomics where I utilize a mixture of causal inference, machine learning and optimization methods to answer unique research questions. I work on topics in labor, child welfare and families, education, and inequality. My job market paper focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
 
 Email: <cntaylor@stanford.edu>
 
@@ -10,11 +10,11 @@ Email: <cntaylor@stanford.edu>
 
 **Job Market Paper**
 
-Who Gets a Family? The Consequences of Family and Group Home Allocation for Foster Child Outcomes
+Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes
 
 <details>
  <summary>Abstract</summary>
-Hundreds of thousands of children grow up in the US foster care system every year and are at high risk of experiencing negative outcomes such as incarceration and homelessness. This paper documents how the placement of foster children into families rather than group homes improves their outcomes using the exits of other children from families as an instrument for their placement setting. Policies that change which children are matched to families can achieve similar average gains to policies that add families to the foster care system due to heterogeneity in treatment effects. 
+Hundreds of thousands of children grow up in the US foster care system every year and are at high risk of experiencing negative outcomes such as incarceration and homelessness. This paper documents how the placement of foster children into families rather than group homes improves their outcomes using the exits of other children from families as an instrument for their placement setting. Policies that change which children are matched to families can achieve a large percentage of the gains from policies that add families to the foster care system due to heterogeneity in treatment effects. 
   </details>
  
  <br/><br/>
