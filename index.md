@@ -10,7 +10,7 @@ Email: <cntaylor@stanford.edu>
 
 **Job Market Paper**
 
-Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes
+[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/taylor_submission_12_2_21.pdf)
 
 <details>
  <summary>Abstract</summary>
