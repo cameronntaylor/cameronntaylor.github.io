@@ -2,7 +2,7 @@
 
 I am an economist and machine learning engineer at Instacart. I graduated with my PhD in economics from Stanford GSB in January 2022. My research is/was generally in applied microeconomics where I utilize a mixture of causal inference, machine learning and optimization methods to answer unique research questions. I work on topics in labor, child welfare and families, education, and inequality. My job market paper focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
 
-Email: <cntaylor@stanford.edu>
+Email: <taylorcn95@gmail.com>
 
 [CV](./pdfs/cntaylor_cv_9_2021.pdf)
 
