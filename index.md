@@ -8,9 +8,20 @@ Email: <taylorcn95@gmail.com>
 
 # Research
 
+**Accepted and Forthcoming Papers**
+
+[Why Do Families Foster Children? A Beckerian Approach (Accepted at Review of Economics of the Household)](./pdfs/foster.pdf) 
+
+ <details>
+   <summary>Abstract</summary>
+  Less than half of the hundreds of thousands of abused and neglected children in foster care are able to find a foster family to take care of them while the rest are placed in restrictive group home settings. This paper proposes that households choose to foster children following a Becker-style model in which households maximize the human capital of the children they care for and can receive human capital flows from both foster children and biological children. The demand for foster children and the age of foster children depends on the number of biological children and the household wage. I test the main predictions of the model using twins as an instrument and a rich set of household observable characteristics. A parameterized version of the model suggests that the substitutability of foster children and biological children is a stronger lever affecting fostering than foster care subsidies, and the wage of a household is almost as important as the subsidy in determining fostering. 
+ </details>
+ 
+ <br/><br/>
+
 **Job Market Paper**
 
-[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/taylor_submission_12_2_21.pdf)
+[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes (R&R at AEJ: Applied)](./pdfs/taylor_submission_12_2_21.pdf)
 
 <details>
  <summary>Abstract</summary>
@@ -30,28 +41,6 @@ Hundreds of thousands of children grow up in the US foster care system every yea
  
  <br/><br/>
  
-
-[Fostering Children](./pdfs/foster.pdf) ([slides](./pdfs/foster_slides.pdf)) ([non-technical summary](./pdfs/foster-non-tech.pdf))
-
- <details>
-   <summary>Abstract</summary>
-  Foster families constitute a crucial input into foster care services. In this paper, a household
-choice model is built to examine why households choose to be foster parents. The model is
-motivated by the inability of classical altruism models to explain important facts about foster
-families and children. In the model, children are costly and foster families get value from
-taking care of foster children through the human capital of the foster child. The model links
-a household’s decision to foster to their own fertility and wage and makes predictions about
-which households have the highest willingness to foster based on these factors. The model’s
-predictions find strong support in the data through instrumental variable strategies and the
-model is able to rationalize many of the motivating facts. A simple form of the model is
-jointly estimated to more directly compare and quantify the mechanisms. Sending the price of
-biological children to infinity induces four times more foster families while sending the time
-cost of foster children to 0 induces 50% more families. The model and data suggest
-that foster children are not perfect substitutes for biological children. Alternative theories are
-discussed in the context of the data and empirical results.
- </details>
- 
- <br/><br/>
 
 [Skill Ladders](./pdfs/educ.pdf)
 
