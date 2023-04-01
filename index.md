@@ -10,7 +10,7 @@ Email: <taylorcn95@gmail.com>
 
 **Accepted and Forthcoming Papers**
 
-[Why Do Families Foster Children? A Beckerian Approach (Accepted at Review of Economics of the Household)](./pdfs/foster.pdf) 
+[Why Do Families Foster Children? A Beckerian Approach](./pdfs/foster-3-19-23-revision-to-submit.pdf) *(Accepted at Review of Economics of the Household)*
 
  <details>
    <summary>Abstract</summary>
@@ -21,7 +21,7 @@ Email: <taylorcn95@gmail.com>
 
 **Job Market Paper**
 
-[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes (R&R at AEJ: Applied)](./pdfs/taylor_submission_12_2_21.pdf)
+[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/taylor_submission_12_2_21.pdf) *(R&R at AEJ: Applied)*
 
 <details>
  <summary>Abstract</summary>
