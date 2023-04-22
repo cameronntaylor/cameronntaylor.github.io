@@ -12,7 +12,7 @@ Email: <taylorcn95@gmail.com>
 
 Why Do Families Foster Children? A Beckerian Approach, *(Review of Economics of the Household)*
 
-[Final Manuscript](./pdfs/foster-3-19-23-revision-to-submit.pdf), [Published Version](https://rdcu.be/c9Sip), [Journal Page](https://link.springer.com/article/10.1007/s11150-023-09654-w) 
+[Final Manuscript](./pdfs/foster-4-22-23-published-w-correction.pdf), [Published Version](https://rdcu.be/c9Sip), [Journal Page](https://link.springer.com/article/10.1007/s11150-023-09654-w) 
 
  <details>
    <summary>Abstract</summary>
