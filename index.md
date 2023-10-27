@@ -23,7 +23,7 @@ Why Do Families Foster Children? A Beckerian Approach, *(Review of Economics of 
 
 **Job Market Paper**
 
-[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-revision-draft-5-17-23.pdf) *(R&R at AEJ: Applied)*
+[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-revision-draft-5-17-23.pdf) *(Conditionally Accepted at AEJ: Applied)*
 
 <details>
  <summary>Abstract</summary>
