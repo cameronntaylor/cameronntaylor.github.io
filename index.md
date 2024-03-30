@@ -4,7 +4,7 @@ I am an economist and machine learning engineer at Instacart. I graduated with m
 
 Email: <camerontphd@gmail.com>
 
-[CV](./pdfs/cntaylor_cv_10_2023.pdf)
+[CV](./pdfs/cntaylor_cv_1_2024.pdf)
 
 # Research
 
