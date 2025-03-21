@@ -4,7 +4,7 @@ I am a data scientist at Netflix. Previously I was an economist and machine lear
 
 Email: <camerontphd@gmail.com>
 
-[CV](./pdfs/cntaylor_cv_1_2024.pdf)
+[CV](./pdfs/cntaylor_cv_3_2025.pdf)
 
 # Research
 
