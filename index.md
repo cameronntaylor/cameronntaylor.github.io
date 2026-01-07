@@ -1,14 +1,39 @@
 # About Me
 
-I am a data scientist at Netflix. Previously I was an economist and machine learning engineer at Instacart. I graduated with my PhD in economics from Stanford GSB in January 2022. My research is/was generally in applied microeconomics where I utilize a mixture of causal inference, machine learning and optimization methods to answer unique research questions. I work on topics in labor, child welfare and families, education, and inequality. My job market paper focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
+I am a data scientist at Netflix. Previously I was an economist and machine learning engineer at Instacart. I also work on sports analytics and other entertainment products and applied research. I graduated with my PhD in economics from Stanford GSB in January 2022. My academic research is generally in applied microeconomics and econometrics where I utilize a mixture of causal inference, machine learning and optimization methods to answer unique research questions. In grad school I worked on topics in labor, child welfare and families, education, and inequality. My job market paper (my main big academic paper) focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
 
 Email: <camerontphd@gmail.com>
 
 [CV](./pdfs/cntaylor_cv_3_2025.pdf)
 
-# Research
+# Products and Applied Research
+
+**Sports Analytics**
+
+[NBA Watchability](https://nba-watchability.streamlit.app/)
+
+Building the Average Watchability Index (aWI) of daily NBA games to visualize and quantify the watchability of an NBA game and help people decide what games to watch with their limited time. Combining the expected competitiveness and quality of teams playing to predict the overall watchability of the basketball being played. Built into Streamlit app. 
+
+ <br/><br/>
+
+[Field Vision Sports](https://www.fieldvisionsports.com/)
+
+Co-founder and Chief Scientist for Field Vision sports which focused on projecting outcomes for all skill position players and teams for NFL games integrating detailed play-by-play data and Vegas data. Acquired by Rafter Sports in 2025. 
+
+ <br/><br/>
+
+# Academic Research
 
 **Accepted and Forthcoming Papers**
+
+[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-revision-draft-5-17-23.pdf) *(Conditionally Accepted at AEJ: Applied)*
+
+<details>
+ <summary>Abstract</summary>
+Hundreds of thousands of children grow up in the US foster care system every year and are at high risk of experiencing negative outcomes such as incarceration and homelessness. This paper documents how the placement of foster children into families rather than group homes improves their outcomes using the exits of other children from families as an instrument for their placement setting. Policies that change which children are matched to families can achieve a large percentage of the gains from policies that add families to the foster care system due to heterogeneity in treatment effects. 
+  </details>
+ 
+ <br/><br/>
 
 Why Do Families Foster Children? A Beckerian Approach, *(Review of Economics of the Household)*
 
@@ -21,16 +46,6 @@ Why Do Families Foster Children? A Beckerian Approach, *(Review of Economics of 
  
  <br/><br/>
 
-**Job Market Paper**
-
-[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-revision-draft-5-17-23.pdf) *(Conditionally Accepted at AEJ: Applied)*
-
-<details>
- <summary>Abstract</summary>
-Hundreds of thousands of children grow up in the US foster care system every year and are at high risk of experiencing negative outcomes such as incarceration and homelessness. This paper documents how the placement of foster children into families rather than group homes improves their outcomes using the exits of other children from families as an instrument for their placement setting. Policies that change which children are matched to families can achieve a large percentage of the gains from policies that add families to the foster care system due to heterogeneity in treatment effects. 
-  </details>
- 
- <br/><br/>
 
 **Working Papers**
 
@@ -71,7 +86,9 @@ What Makes a Movie Great?
 
 <br/><br/>
 
-**Shorter Pieces**
+# Teaching, Classwork and Miscellaneous
+
+**Other Writing**
 
 [NFL Deep Learning Project](./pdfs/final_report.pdf) ([poster](./pdfs/poster_final.pdf))
 <details>
@@ -89,18 +106,13 @@ What Makes a Movie Great?
 
 <br/><br/>
 
-[Blog](./blog)
+[Blog (MUCH OLDER AND NO LONGER UPDATED)](./blog)
 
-I write about popular subject topics (mainly sports) using economics and statistics. 
+I wrote a few short articules about popular subject topics (mainly sports) using economics and statistics. 
 
 <br/><br/>
 
-**Data**
-
-Films 1960-2018 (In Progress)
-
-
-# Teaching and Other Activities
+**Teaching**
 
 Stanford GSB Research Fellow Econometrics Bootcamp 2019-2021 (1 week bootcamp on econometric methods)
 
