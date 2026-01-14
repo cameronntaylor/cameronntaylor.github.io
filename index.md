@@ -26,7 +26,7 @@ Co-founder and Chief Scientist for Field Vision sports which focused on projecti
 
 **Accepted and Forthcoming Papers**
 
-[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-revision-draft-5-17-23.pdf) *(Conditionally Accepted at AEJ: Applied)*
+[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-revision-draft-5-17-23.pdf) *(Accepted and Forthcoming at AEJ: Applied)*
 
 <details>
  <summary>Abstract</summary>
