@@ -10,7 +10,7 @@ Email: <camerontphd@gmail.com>
 
 **Sports Analytics**
 
-[NBA Watchability](https://nba-watchability.streamlit.app/)
+[NBA Watchability](https://nba-watchability.streamlit.app/) ([X account](https://x.com/NBAWhatToWatch))
 
 Building the Average Watchability Index (aWI) of daily NBA games to visualize and quantify the watchability of an NBA game and help people decide what games to watch with their limited time. Combining the expected competitiveness and quality of teams playing to predict the overall watchability of the basketball being played. Built into Streamlit app. 
 
