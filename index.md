@@ -1,6 +1,6 @@
 # About Me
 
-I am a data scientist at Netflix. Previously I was an economist and machine learning engineer at Instacart. I also work on sports analytics and other entertainment products and applied research. I graduated with my PhD in economics from Stanford GSB in January 2022. My academic research is generally in applied microeconomics and econometrics where I utilize a mixture of causal inference, machine learning and optimization methods to answer unique research questions. In grad school I worked on topics in labor, child welfare and families, education, and inequality. My job market paper (my main big academic paper) focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
+I am a data scientist at Netflix. Previously I was an economist and machine learning engineer at Instacart. My most recent work has been focused on evaluating and building AI and ML-driven decision-making systems. I also work on sports analytics and other entertainment products and applied research. I graduated with my PhD in economics from Stanford GSB in January 2022. In grad school I worked on topics in labor, child welfare and families, education, and inequality. My job market paper (my main big academic paper) focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
 
 Email: <camerontphd@gmail.com>
 
