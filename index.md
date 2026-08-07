@@ -1,15 +1,17 @@
 # About Me
 
-I am a data scientist at Netflix. Previously I was an economist and machine learning engineer at Instacart. My most recent work has been focused on evaluating and building AI and ML-driven decision-making systems. I also work on sports analytics and other entertainment products and applied research. I graduated with my PhD in economics from Stanford GSB in January 2022. In grad school I worked on topics in labor, child welfare and families, education, and inequality. My job market paper (my main big academic paper) focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy.
+I am a data scientist at Netflix. My most recent work has been focused on evaluating and building AI and ML-driven decision-making systems. 
+
+Previously I was an economist and machine learning engineer at Instacart. I graduated with my PhD in economics from Stanford GSB in January 2022. In grad school I worked on topics in labor, child welfare and families, education, and inequality. My job market paper (my main big academic paper) focused on understanding which foster children benefit most from placement with foster families relative to institutions and how that informs optimal foster care policy. I have also worked on sports analytics and other entertainment products and applied research.
 
 Email: <camerontphd@gmail.com>
 
 [CV](./pdfs/cntaylor_cv_3_2025.pdf)
 
 
-# Academic Research
+# Research
 
-**Accepted and Forthcoming Papers**
+**Accepted and Forthcoming Academic Papers**
 
 [Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-cdtlaccpt-draft-6-15-25.pdf) *(Accepted and Forthcoming at AEJ: Applied)*
 
@@ -31,8 +33,18 @@ Why Do Families Foster Children? A Beckerian Approach, *(Review of Economics of 
  
  <br/><br/>
 
+**Technical Blogs**
 
-**Working Papers**
+[Evaluating Netflix Show Synopses with LLM-as-a-Judge](medium.com/netflix-techblog/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28)
+
+ <details>
+   <summary>Abstract</summary>
+  This article presents Netflix’s LLM-as-a-Judge system for evaluating show synopses at scale. Grounded in expert-defined creative standards, the approach combines specialized evaluators, tiered reasoning, consensus scoring, and factuality agents to assess qualities such as clarity, precision, tone, and accuracy. The system achieves more than 85% agreement with creative writers and its scores correlate with viewer engagement — helping Netflix identify impactful quality issues before a title’s release.
+ </details>
+
+<br/><br/>
+
+**Working Academic Papers**
 
 [Information and Risky Behavior: Model and Policy Implications for COVID-19](./pdfs/covid19-6-16-2020.pdf)
 
@@ -72,7 +84,6 @@ What Makes a Movie Great?
 <br/><br/>
 
 
-
 # Teaching, Workshops and Presentations
 
 **Teaching Experience**
@@ -86,6 +97,10 @@ Course Assistant HRMGT 302 Incentives and Productivity (MBA advanced economics)
 Course Assistant OIT 274 Data and Decisions (MBA intro to econometrics and data science)
 
 <br/><br/>
+
+**Workshops and Presentations**
+
+NABE Tec 2025 - AI Applications in Industry
 
 **Miscellaneous Teaching Materials**
 
