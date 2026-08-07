@@ -6,21 +6,6 @@ Email: <camerontphd@gmail.com>
 
 [CV](./pdfs/cntaylor_cv_3_2025.pdf)
 
-# Products and Applied Research
-
-**Sports Analytics**
-
-[NBA Watchability](https://nba-watchability.streamlit.app/) ([X account](https://x.com/NBAWhatToWatch))
-
-Building the Average Watchability Index (aWI) of daily NBA games to visualize and quantify the watchability of an NBA game and help people decide what games to watch with their limited time. Combining the expected competitiveness and quality of teams playing to predict the overall watchability of the basketball being played. Built into Streamlit app. 
-
- <br/><br/>
-
-[Field Vision Sports](https://www.fieldvisionsports.com/)
-
-Co-founder and Chief Scientist for Field Vision sports which focused on projecting outcomes for all skill position players and teams for NFL games integrating detailed play-by-play data and Vegas data. Acquired by Rafter Sports in 2025. 
-
- <br/><br/>
 
 # Academic Research
 
@@ -109,6 +94,22 @@ Course Assistant OIT 274 Data and Decisions (MBA intro to econometrics and data 
 </details>
 
 <br/><br/>
+
+# Products and Applied Research
+
+**Sports Analytics**
+
+[NBA Watchability](https://nba-watchability.streamlit.app/) ([X account](https://x.com/NBAWhatToWatch))
+
+Building the Average Watchability Index (aWI) of daily NBA games to visualize and quantify the watchability of an NBA game and help people decide what games to watch with their limited time. Combining the expected competitiveness and quality of teams playing to predict the overall watchability of the basketball being played. Built into Streamlit app. 
+
+ <br/><br/>
+
+[Field Vision Sports](https://www.fieldvisionsports.com/)
+
+Co-founder and Chief Scientist for Field Vision sports which focused on projecting outcomes for all skill position players and teams for NFL games integrating detailed play-by-play data and Vegas data. Acquired by Rafter Sports in 2025. 
+
+ <br/><br/>
 
 # Other Writing
 
