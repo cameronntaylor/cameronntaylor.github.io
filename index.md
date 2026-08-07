@@ -11,7 +11,7 @@ Email: <camerontphd@gmail.com>
 
 **Accepted and Forthcoming Papers**
 
-[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-revision-draft-5-17-23.pdf) *(Accepted and Forthcoming at AEJ: Applied)*
+[Who Gets a Family? The Consequences of Family and Group Home Allocation for Child Outcomes](./pdfs/aej-cdtlaccpt-draft-6-15-25.pdf) *(Accepted and Forthcoming at AEJ: Applied)*
 
 <details>
  <summary>Abstract</summary>
@@ -77,13 +77,15 @@ What Makes a Movie Great?
 
 **Teaching Experience**
 
-Stanford GSB Research Fellow Econometrics Bootcamp 2019-2021 (1 week bootcamp on econometric methods)
+Stanford GSB Research Fellow Econometrics Bootcamp 2019-2021 (1 week bootcamp on econometric methods) [Syllabus](./pdfs/syllabus-8-2-2021.pdf) [Slides (zip)](./pdfs/slides2021.zip) 
 
 Course Assistant MGTECON 603 Econometrics Methods I Fall 2019 (PhD course on statistical foundations of econometrics) [Section Notes](./pdfs/section_notes.pdf)
 
 Course Assistant HRMGT 302 Incentives and Productivity (MBA advanced economics)
 
 Course Assistant OIT 274 Data and Decisions (MBA intro to econometrics and data science)
+
+<br/><br/>
 
 **Miscellaneous Teaching Materials**
 
