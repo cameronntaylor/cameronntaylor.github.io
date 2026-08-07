@@ -86,33 +86,11 @@ What Makes a Movie Great?
 
 <br/><br/>
 
-# Teaching, Classwork and Miscellaneous
 
-**Other Writing**
 
-[NFL Deep Learning Project](./pdfs/final_report.pdf) ([poster](./pdfs/poster_final.pdf))
-<details>
-  <summary>Details</summary>
-  Project using NFL pre-play image and situational data with convolutional neural networks and transfer learning to predict play outcomes including yards gained and offensive play call. 
-</details>
+# Teaching, Workshops and Presentations
 
-<br/><br/>
-
-[Machine Learning Cheatsheet](./pdfs/ml_cheat.pdf)
-<details>
-  <summary>Details</summary>
-  A machine learning cheatsheet to de-mystify some major machine learning methods for those with intermediate statistics and econometrics backgrounds. Also useful as a condensed reference for high-level overview of the methods.
-</details>
-
-<br/><br/>
-
-[Blog (MUCH OLDER AND NO LONGER UPDATED)](./blog)
-
-I wrote a few short articules about popular subject topics (mainly sports) using economics and statistics. 
-
-<br/><br/>
-
-**Teaching**
+**Teaching Experience**
 
 Stanford GSB Research Fellow Econometrics Bootcamp 2019-2021 (1 week bootcamp on econometric methods)
 
@@ -122,4 +100,27 @@ Course Assistant HRMGT 302 Incentives and Productivity (MBA advanced economics)
 
 Course Assistant OIT 274 Data and Decisions (MBA intro to econometrics and data science)
 
-Course Assistant ALP 301 Data-Driven Impact (MBA / Masters / PhD applied machine learning class)
+**Miscellaneous Teaching Materials**
+
+[Machine Learning Cheatsheet](./pdfs/ml_cheat.pdf)
+<details>
+  <summary>Details</summary>
+  A machine learning cheatsheet to de-mystify some major machine learning methods for those with intermediate statistics and econometrics backgrounds. Also useful as a condensed reference for high-level overview of the methods.
+</details>
+
+<br/><br/>
+
+# Other Writing
+
+[NFL Deep Learning Project](./pdfs/final_report.pdf) ([poster](./pdfs/poster_final.pdf))
+<details>
+  <summary>Details</summary>
+  Project using NFL pre-play image and situational data with convolutional neural networks and transfer learning to predict play outcomes including yards gained and offensive play call. 
+</details>
+
+<br/><br/>
+
+[Blog (MUCH OLDER AND NO LONGER UPDATED)](./blog)
+
+I wrote a few short articles about popular subject topics (mainly sports) using economics and statistics. 
+
