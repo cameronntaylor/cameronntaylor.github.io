@@ -35,7 +35,7 @@ Why Do Families Foster Children? A Beckerian Approach, *(Review of Economics of 
 
 **Technical Blogs**
 
-[Evaluating Netflix Show Synopses with LLM-as-a-Judge](medium.com/netflix-techblog/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28)
+[Evaluating Netflix Show Synopses with LLM-as-a-Judge](https://medium.com/netflix-techblog/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28)
 
  <details>
    <summary>Abstract</summary>
